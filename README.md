@@ -51,8 +51,8 @@ ng new blockchain-poll --directory ./
 npm start
 ```
 
-After successfull run the project will work on
-**http://localhost:4200/**
+    After successfull run the project will work on
+    **http://localhost:4200/**
 
 4. Delete all the Html Code From
    **_src/app/app.component.html_**
