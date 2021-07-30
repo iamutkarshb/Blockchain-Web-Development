@@ -30,13 +30,13 @@ Ganache is a local Blockchain which we will mostly work for testing purpose afte
 
 ## 1. **Setting up environment**
 
-1. Since we will be working with the angular:
+### 1. Since we will be working with the angular:
 
 ```bash
 npm install -g @angular/cli@9.1.3
 ```
 
-2. Create a new folder "Blockchain web app"
+### 2. Create a new folder "Blockchain web app"
 
 ```bash
 cd [folder location]
