@@ -63,6 +63,13 @@ npm start
 
 ## 2. **Frontend application**
 
+In this section we build the Frontend website in Angular and focus on different components, visual and logical structure.
+
+Later we will connect it to blockchain.
+
+If you already have your own website, or web app, skip this section.
+Later we will learn how to connect it to blockchain.
+
 ## 3. **Smart Contract and blockchain**
 
 ## 4. **Connectinng it all together middleware**
