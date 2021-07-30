@@ -8,6 +8,7 @@ import { PollComponent } from './poll/poll.component';
 import { PollVoteComponent } from './poll-vote/poll-vote.component';
 import { PollService } from './poll-service/poll.service';
 import { Web3Service } from './blockchain/web3.service';
+import { PollServiceComponent } from './poll-service/poll-service.component';
 
 @NgModule({
   declarations: [
@@ -15,6 +16,7 @@ import { Web3Service } from './blockchain/web3.service';
     PollCreateComponent,
     PollComponent,
     PollVoteComponent,
+    PollServiceComponent,
   ],
   imports: [BrowserModule, FormsModule, ReactiveFormsModule],
   providers: [PollService, Web3Service],
