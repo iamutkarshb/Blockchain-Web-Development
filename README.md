@@ -43,23 +43,23 @@ cd [folder location]
 ng new blockchain-poll --directory ./
 ```
 
-1. Would you like to add Angular routing? No
-2. Which stylesheet format would you like to use? SCSS
-3. To check if the project is working
+    1. Would you like to add Angular routing? No
+    2. Which stylesheet format would you like to use? SCSS
+    3. To check if the project is working
 
-```bash
-npm start
-```
+    ```bash
+    npm start
+    ```
 
     After successfull run the project will work on
     **http://localhost:4200/**
 
-4. Delete all the Html Code From
-   **_src/app/app.component.html_**
-   "this will be you main HTML body add whatever Html Code you want to write in and it will get printed on the website"
+    4. Delete all the Html Code From
+      **_src/app/app.component.html_**
+      "this will be you main HTML body add whatever Html Code you want to write in and it will get printed on the website"
 
-   "if you want to add any CSS or JS file in the website add the src/link file in"
-   **_src/index.html_**
+      "if you want to add any CSS or JS file in the website add the src/link file in"
+      **_src/index.html_**
 
 ## 2. **Frontend application**
 
