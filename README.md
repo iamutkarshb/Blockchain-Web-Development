@@ -38,23 +38,23 @@ npm install -g @angular/cli@9.1.3
 
 ### 2. Create a new folder "Blockchain web app"
 
-```bash
-cd [folder location]
-ng new blockchain-poll --directory ./
-```
+    ```bash
+    cd [folder location]
+    ng new blockchain-poll --directory ./
+    ```
 
-    1. Would you like to add Angular routing? No
-    2. Which stylesheet format would you like to use? SCSS
-    3. To check if the project is working
+   1. Would you like to add Angular routing? No
+   2. Which stylesheet format would you like to use? SCSS
+   3. To check if the project is working
 
     ```bash
     npm start
     ```
 
-    After successfull run the project will work on
-    **http://localhost:4200/**
+   After successfull run the project will work on
+   **http://localhost:4200/**
 
-    4. Delete all the Html Code From
+   4. Delete all the Html Code From
       **_src/app/app.component.html_**
       "this will be you main HTML body add whatever Html Code you want to write in and it will get printed on the website"
 
